@@ -17,7 +17,7 @@ The goal was to analyze **key healthcare metrics** and uncover **patterns in bil
 
 Data cleaning was led by **[Nandini](https://github.com/nandiniarjun03)**.  
 All cleaning-related files can be explored here:  
-👉 [`/data_cleaning/`](EDA-Project-on-Healthcare-Dataset/data_cleaning/)
+👉 [`/data_cleaning/`](data_cleaning/)
 
 Detailed documentation of the cleaning process:  
 📄 [`ISSUE_RESOLUTION_REPORT.md`](EDA-Project-on-Healthcare-Dataset/data_cleaning/ISSUE_RESOLUTION_REPORT.md)
