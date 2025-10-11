@@ -20,7 +20,7 @@ All cleaning-related files can be explored here:
 👉 [`/data_cleaning/`](data_cleaning/)
 
 Detailed documentation of the cleaning process:  
-📄 [`ISSUE_RESOLUTION_REPORT.md`](EDA-Project-on-Healthcare-Dataset/data_cleaning/ISSUE_RESOLUTION_REPORT.md)
+📄[`ISSUE_RESOLUTION_REPORT.md`](data_cleaning/ISSUE_RESOLUTION_REPORT.md)
 
 **Key Cleaning Steps:**
 - Removed **missing values** and **duplicate records**  
@@ -29,7 +29,7 @@ Detailed documentation of the cleaning process:
 - Ensured **data quality and validity** before EDA  
 
 📊 **Cleaned Dataset:**  
-[`Cleaned_Medical_Data.csv`](EDA-Project-on-Healthcare-Dataset/Cleaned_Medical_Data.csv)
+[`Cleaned_Medical_Data.csv`](Cleaned_Medical_Data.csv)
 
 ---
 
@@ -37,7 +37,8 @@ Detailed documentation of the cleaning process:
 
 EDA was performed by **me** to identify statistical relationships and business insights.  
 Find the complete notebook here:  
-📘 [`Final_Medical_Dataset.ipynb`](EDA-Project-on-Healthcare-Dataset/Final_Medical_Dataset.ipynb)
+📘 [`Final_Medical_Dataset.ipynb`](Final_Medical_Dataset.ipynb)
+
 
 ---
 
