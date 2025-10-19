@@ -99,7 +99,7 @@ A range of analytical visuals were created to explore billing, patient demograph
 ---
 
 ## 👨‍🏫 Guided By  
-**[The RD Group of Industry](https://github.com/TheRDGroupOfIndustries)**  
+**[The RD Group of Industries](https://github.com/TheRDGroupOfIndustries)**  
 
 ---
 
