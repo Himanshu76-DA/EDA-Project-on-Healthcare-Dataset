@@ -35,10 +35,9 @@ Detailed documentation of the cleaning process:
 
 ## 📊 Exploratory Data Analysis (EDA)  
 
-EDA was performed by **me** to identify statistical relationships and business insights.  
+EDA was performed by **[Himanshu](https://github.com/Himanshu76-DA)** to identify statistical relationships and business insights.  
 Find the complete notebook here:  
 📘 [`Final_Medical_Dataset.ipynb`](Final_Medical_Dataset.ipynb)
-
 
 ---
 
@@ -63,6 +62,16 @@ A range of analytical visuals were created to explore billing, patient demograph
 | 🧑‍⚕️ **Patient Count by Insurance Provider** | ![Insurance Provider](Project%20Screenshots/Patient%20count%20by%20insurance%20provider.png) |
 | 💳 **Total Billing by Age Group** | ![Total Billing by Age Group](Project%20Screenshots/Total%20Billing%20Amount%20by%20Age%20group.png) |
 | 🧍‍♀️ **Total Billing by Gender** | ![Total Billing by Gender](Project%20Screenshots/Total%20Billing%20Amount%20by%20Gender.png) |
+
+---
+
+## 🏥 Power BI Dashboard  
+
+The interactive Power BI dashboard was created by **[Nandini](https://github.com/nandiniarjun03)** to provide deeper insights into the healthcare dataset.  
+📊 **Dashboard File:** [`Hospital_dashboard.pbix`](https://github.com/Himanshu76-DA/EDA-Project-on-Healthcare-Dataset/blob/main/Hospital_dashboard.pbix)
+
+### 📸 Dashboard Preview  
+<img src="https://github.com/Himanshu76-DA/EDA-Project-on-Healthcare-Dataset/blob/main/Hospital%20dashboard.jpg" alt="Hospital Dashboard" width="800"/>
 
 ---
 
@@ -95,7 +104,7 @@ A range of analytical visuals were created to explore billing, patient demograph
 
 9. **Insurance Insights:**  
    While differences are minimal, **Medicare** covers the **most patients**.
-   
+
 ---
 
 ## 👨‍🏫 Guided By  
@@ -104,5 +113,5 @@ A range of analytical visuals were created to explore billing, patient demograph
 ---
 
 ## 🏷️ Contributors  
-- [Nandini](https://github.com/nandiniarjun03) — Data Cleaning  
-- **[me](https://github.com/Himanshu76-DA)** — Exploratory Data Analysis & Visualization  
+- [Nandini](https://github.com/nandiniarjun03) — Data Cleaning & Power BI Dashboard  
+- [Himanshu](https://github.com/Himanshu76-DA) — Exploratory Data Analysis & Visualization  
